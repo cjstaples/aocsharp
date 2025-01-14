@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aoc_2023", "aoc_2023\aoc_2023.csproj", "{BDDF43B3-E138-4482-A682-980209936E2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aoc_2024", "aoc_2024\aoc_2024.csproj", "{640982A5-6C39-42DA-8193-CEFA522BEF28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aoc_2025", "aoc_2025\aoc_2025.csproj", "{F7818C9C-DAF3-4618-8307-560D6B072909}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,5 +16,19 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDDF43B3-E138-4482-A682-980209936E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDF43B3-E138-4482-A682-980209936E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDF43B3-E138-4482-A682-980209936E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDF43B3-E138-4482-A682-980209936E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640982A5-6C39-42DA-8193-CEFA522BEF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640982A5-6C39-42DA-8193-CEFA522BEF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640982A5-6C39-42DA-8193-CEFA522BEF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640982A5-6C39-42DA-8193-CEFA522BEF28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7818C9C-DAF3-4618-8307-560D6B072909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7818C9C-DAF3-4618-8307-560D6B072909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7818C9C-DAF3-4618-8307-560D6B072909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7818C9C-DAF3-4618-8307-560D6B072909}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
